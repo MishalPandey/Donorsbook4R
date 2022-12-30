@@ -7,14 +7,16 @@ Blood Donation App
 • We also implemented Notifications to allow registered donors in our DONORSBOOK APP to be Notified
   once a recipient sends them an email.
   
+  # What I used in it :
+• Firebase : I Used Google's firebase to manage authentication using email and password, also for store data in firestore.\
+• JAVA, XML language.
+  
  # Content
 • Splash Screen\
 • Login Screen\
 • Register Screen\
 • Home Screen (Profile, Notifications, Different Blood groups...
 
-# What I used in it :
-• Firebase : I Used Google's firebase to manage authentication using email and password, also for store data in firestore.\
-• JAVA, XML language.
+
 
 # ScreenShot
