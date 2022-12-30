@@ -1,6 +1,6 @@
-# Donorsbook4R
+# Donorsbook4R ✨✨
 Blood Donation App
-# About
+# About ✨
 • Created a APP with Android Studio and Firebase. The app shall allow for User
  authentication, Saving data to database,   Retrieving data from firebase database, Sending Emails
  directly from the android app without using intents or the Gmail app.\
@@ -11,7 +11,7 @@ Blood Donation App
 • Firebase : I Used Google's firebase to manage authentication using email and password, also for store data in firestore.\
 • JAVA, XML language.
   
- # Content
+ # Content ✨
 • Splash Screen\
 • Login Screen\
 • Register Screen\
@@ -19,7 +19,7 @@ Blood Donation App
 
 
 
-# ScreenShot
+# ScreenShot ✨
 ![DonorsbookGithub1 (1)](https://user-images.githubusercontent.com/91657594/210101908-a776f17d-f1c2-4438-a9c0-8fc13ec59eed.jpg)
 ![DonorsbookGithub1](https://user-images.githubusercontent.com/91657594/210101933-d2b93851-b377-4130-80ce-163e20758ae5.jpg)
 ![DonorsbookGithub1 (2)](https://user-images.githubusercontent.com/91657594/210101943-c22a40f2-177d-4894-80ab-8bd2daae810a.jpg)
