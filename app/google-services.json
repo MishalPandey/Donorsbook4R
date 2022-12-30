@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689786977073",
+    "project_id": "donorsbook4r",
+    "storage_bucket": "donorsbook4r.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689786977073:android:4f192e5de71f207051ce10",
+        "android_client_info": {
+          "package_name": "com.mishalpandey.donorsbook4r"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689786977073-lamvuibvki6o4l25di8cagp7ajofh4oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mishalpandey.donorsbook4r",
+            "certificate_hash": "325b296b64e1220558153c4524a2e04251cf0b10"
+          }
+        },
+        {
+          "client_id": "689786977073-f8j3jlcgp4kaim2h9g9do408572njmt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkC9xRVYKj7YqGDBXxudL-LGGzeG5DVOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689786977073-f8j3jlcgp4kaim2h9g9do408572njmt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
