@@ -9,7 +9,7 @@ App link:- (https://drive.google.com/file/d/1lJftesfXnHwVca3PylMiVn234VaO8uBy/vi
   once a recipient sends them an email.
   
   # What I used in it :
-• Firebase : I Used Google's firebase to manage authentication using email and password, also for store data in firestore.\
+• Firebase : I Used Google's firebase to manage authentication using email and password, also for storing data in firestore.\
 • JAVA, XML language.
   
  # Content 
