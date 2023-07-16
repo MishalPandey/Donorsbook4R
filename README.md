@@ -16,7 +16,7 @@ App link:- (https://drive.google.com/file/d/1lJftesfXnHwVca3PylMiVn234VaO8uBy/vi
 • Splash Screen\
 • Login Screen\
 • Register Screen\
-• Home Screen (Profile, Notifications, Different Blood groups...
+• Home Screen (Profile, Notifications, Filtering Different Blood groups....
 
 
 
