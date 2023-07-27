@@ -3,14 +3,6 @@ Blood Donation App\
 App link:- (https://drive.google.com/file/d/19yLOFh6Gl_-3I8WzCtm5oNBdT43gieVI/view?usp=sharing)
   
 
-  
- # Content 
-• Splash Screen\
-• Login Screen\
-• Register Screen\
-• Home Screen (Profile, Notifications, Filtering Different Blood groups....
-
-
 
 # ScreenShot 
 ![DonorsbookGithub1 (1)](https://user-images.githubusercontent.com/91657594/210101908-a776f17d-f1c2-4438-a9c0-8fc13ec59eed.jpg)
