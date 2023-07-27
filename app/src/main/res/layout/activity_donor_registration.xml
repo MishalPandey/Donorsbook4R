@@ -28,9 +28,10 @@
                 android:layout_height="150dp"
                 android:layout_gravity="center"
                 android:layout_marginTop="20dp"
-                android:src="@drawable/applogo"/>
+                android:src="@drawable/applogo"
+                android:contentDescription="@string/todo" />
             <TextView
-                android:text="Donor Registration"
+                android:text="@string/donor_registration"
                 android:textColor="#000"
                 android:textSize="25sp"
                 android:textStyle="bold"
@@ -39,7 +40,7 @@
                 android:layout_height="wrap_content"/>
             <TextView
 
-                android:text="Sign up to continue"
+                android:text="@string/sign_up_to_continue"
                 android:textColor="#000"
                 android:textSize="20sp"
                 android:gravity="center"
@@ -75,10 +76,10 @@
                         android:id="@+id/registerFullName"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:hint="Enter full name"
+                        android:hint="@string/enter_full_name"
                         android:drawablePadding="10dp"
                         android:textColor="#000"
-                        android:textSize="18dp"
+                        android:textSize="18sp"
                         android:textColorHint="#000"
                         android:drawableStart="@drawable/ic_person"/>
 
@@ -95,11 +96,11 @@
                         android:id="@+id/registerIdNumber"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:hint="Enter ID Number"
+                        android:hint="@string/enter_id_number"
                         android:inputType="number"
                         android:drawablePadding="10dp"
                         android:textColor="#000"
-                        android:textSize="18dp"
+                        android:textSize="18sp"
                         android:textColorHint="#000"
                         android:drawableStart="@drawable/ic_id"/>
 
@@ -116,20 +117,21 @@
                         android:id="@+id/registerPhoneNumber"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:hint="Enter Phone Number"
+                        android:hint="@string/enter_phone_number"
                         android:inputType="number"
                         android:drawablePadding="10dp"
                         android:textColor="#000"
-                        android:textSize="18dp"
+                        android:textSize="18sp"
                         android:textColorHint="#000"
                         android:drawableStart="@drawable/ic_phone"/>
 
                 </com.google.android.material.textfield.TextInputLayout>
                 <Spinner
-                    android:gravity="center"
-                    android:layout_gravity="center"
+
                     android:id="@+id/bloodGroupsSpinner"
                     android:background="#fff"
+                    android:gravity="center"
+                    android:layout_gravity="center"
                     android:layout_marginStart="9dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginBottom="10dp"
@@ -149,11 +151,11 @@
                         android:id="@+id/registerEmail"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:hint="Enter Email"
+                        android:hint="@string/enter_email"
                         android:inputType="textEmailAddress"
                         android:drawablePadding="10dp"
                         android:textColor="#000"
-                        android:textSize="18dp"
+                        android:textSize="18sp"
                         android:textColorHint="#000"
                         android:drawableStart="@drawable/ic_mail"/>
 
@@ -170,11 +172,11 @@
                         android:id="@+id/registerPassword"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:hint="Enter Password"
+                        android:hint="@string/enter_password"
                         android:inputType="textPassword"
                         android:drawablePadding="10dp"
                         android:textColor="#000"
-                        android:textSize="18dp"
+                        android:textSize="18sp"
                         android:textColorHint="#000"
                         android:drawableStart="@drawable/ic_password"/>
 
@@ -184,7 +186,7 @@
 
                 <Button
                     android:id="@+id/registerButton"
-                    android:text="Sign Up Now"
+                    android:text="@string/sign_up_now"
                     android:textAllCaps="false"
                     android:layout_marginTop="10dp"
                     android:layout_gravity="center"
@@ -195,7 +197,7 @@
                     android:layout_height="wrap_content"/>
                 <TextView
                     android:id="@+id/backButton"
-                    android:text="Already registered? Sign In"
+                    android:text="@string/already_registered_sign_in"
                     android:layout_marginTop="15dp"
                     android:textColor="#000"
                     android:textStyle="bold"

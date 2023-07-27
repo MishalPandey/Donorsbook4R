@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "689786977073",
+    "firebase_url": "https://donorsbook4r-default-rtdb.firebaseio.com",
     "project_id": "donorsbook4r",
     "storage_bucket": "donorsbook4r.appspot.com"
   },

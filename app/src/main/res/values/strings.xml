@@ -1,8 +1,18 @@
 <resources>
-    <string name="app_name">Donorsbook4R</string>
+    <string name="app_name">Donorsbook</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="donor_registration">Donor Registration</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="enter_id_number">Enter ID Number</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="already_registered_sign_in">Already registered? Sign In</string>
+    <string name="sign_up_now">Sign Up Now</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="todo">TODO</string>
 
 
     <string-array name="bloodgroups">
